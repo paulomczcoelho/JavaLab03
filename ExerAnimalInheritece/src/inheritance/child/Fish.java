@@ -7,7 +7,7 @@ public class Fish extends Animal {
     private String habitat;
     private String gills;
     
-    public Fish(){
+    public Fish(){//
         super(55, 3, "Marinho", "hot");
         habitat = "Water";
         gills = "yes";

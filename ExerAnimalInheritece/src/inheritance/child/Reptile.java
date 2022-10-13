@@ -7,7 +7,7 @@ public class Reptile extends Animal {
     private String bone;
     private String eggType;
 
-    public Reptile(){
+    public Reptile(){//
         skynType = "REPTILE-Leather";
         bone = "REPTILE-backbone";
         eggType = "REPTILE-Soft-shelled eggs";

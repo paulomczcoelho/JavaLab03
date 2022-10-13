@@ -8,7 +8,7 @@ public class Birds extends Animal {
     private String fly;
     
 
-    public Birds(){
+    public Birds(){//
         super(10, 7, "Birds",  "hot");
         feathers = "Red-feathers";
         fly = "yes";

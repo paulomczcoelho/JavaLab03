@@ -20,7 +20,7 @@ public class Animal{
         this.animalType = animalType;
         this.bloodType = bloodType;
     }
-
+//
     public int getHeight() {
         return height;
     }

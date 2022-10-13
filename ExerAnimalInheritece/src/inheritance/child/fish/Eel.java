@@ -15,7 +15,7 @@ public class Eel extends Fish{
         super(height, weight, animalType, bloodType , habitat, gills);
         this.releaseEletricCharge = releaseEletricCharge;
     }
-
+//
     public String getReleaseEletricCharge() {
         return releaseEletricCharge;
     }
